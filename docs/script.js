@@ -1,14 +1,14 @@
 
 // --- CONFIGURATION ---
 const routes = {
-    '/': 'terms_of_use.md',
-    '/terms_of_use': 'terms_of_use.md',
+    '/': 'terms_of_service.md',
+    '/terms_of_service': 'terms_of_service.md',
     '/privacy_desktop_commander_mcp': 'mcp-privacy-policy.md',
     '/404': '404.md'
 };
 
 const menuItems = [
-    { "title": "Terms of Service", "url": "/terms_of_use" },
+    { "title": "Terms of Service", "url": "/terms_of_service" },
     { "title": "Privacy Policy for Desktop Commander MCP", "url": "/privacy_desktop_commander_mcp" }
 ];
 
