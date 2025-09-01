@@ -9,21 +9,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Markdown-it CDN -->
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.0.4/dist/markdown-it.min.js"></script>
-    <style>
-        /* Custom styles for rendered markdown */
-        #content h1, #content h2, #content h3 {
-            font-weight: 600;
-            margin-top: 1.5em;
-            margin-bottom: 0.75em;
-        }
-        #content h1 { font-size: 2.25rem; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.5em; }
-        #content h2 { font-size: 1.875rem; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.5em; }
-        #content h3 { font-size: 1.5rem; }
-        #content p { margin-bottom: 1.25em; line-height: 1.7; color: #4a5568; }
-        #content a { color: #4299e1; text-decoration: underline; }
-        #content ul, #content ol { padding-left: 2em; margin-bottom: 1.25em; }
-        #content li { margin-bottom: 0.5em; }
-    </style>
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body class="bg-gray-100">
 
@@ -44,83 +31,7 @@
         </main>
     </div>
 
-    <script>
-        const contentEl = document.getElementById('content');
-        const navMenuEl = document.getElementById('navigation-menu');
-        const md = window.markdownit();
-
-        // --- ROUTER & CONTENT LOADER ---
-        const routes = {
-            '/': 'terms_of_use.md',
-            '/terms_of_use': 'terms_of_use.md',
-            '/privacy': 'mcp-privacy-policy.md',
-            '/404': '404.md' // A fallback markdown file
-        };
-
-        const loadContent = (path) => {
-            const markdownFile = routes[path] || routes['/404'];
-            document.title = path.charAt(1).toUpperCase() + path.slice(2).replace('_', ' ') || 'Terms of Service';
-
-            fetch(markdownFile)
-                .then(response => {
-                    if (!response.ok) throw new Error('File not found');
-                    return response.text();
-                })
-                .then(text => contentEl.innerHTML = md.render(text))
-                .catch(err => {
-                    fetch(routes['/404']).then(r => r.text()).then(t => contentEl.innerHTML = md.render(t));
-                });
-        };
-
-        // --- NAVIGATION ---
-        const updateNavigation = (path) => {
-            const links = navMenuEl.querySelectorAll('a');
-            links.forEach(link => {
-                const linkPath = new URL(link.href).pathname;
-                if (linkPath === path || (path === '/' && linkPath === '/terms_of_use')) {
-                    link.className = 'block text-lg text-blue-600 font-semibold';
-                } else {
-                    link.className = 'block text-lg text-gray-700 hover:text-blue-600';
-                }
-            });
-        };
-        
-        // Load the menu from JSON
-        fetch('/menu.json')
-            .then(res => res.json())
-            .then(menuItems => {
-                navMenuEl.innerHTML = ''; // Clear loading text
-                menuItems.forEach(item => {
-                    const link = document.createElement('a');
-                    link.href = item.url;
-                    link.textContent = item.title;
-                    link.onclick = (e) => {
-                        e.preventDefault();
-                        const path = new URL(e.target.href).pathname;
-                        window.history.pushState({ path }, '', path);
-                        loadContent(path);
-                        updateNavigation(path);
-                    };
-                    navMenuEl.appendChild(link);
-                });
-                // Initial page load
-                const redirectedPath = sessionStorage.getItem('redirect');
-                if (redirectedPath) {
-                    sessionStorage.removeItem('redirect');
-                    const path = redirectedPath.split('?')[0]; // clean up query params
-                    window.history.replaceState({ path: path }, '', path);
-                }
-                const initialPath = window.location.pathname;
-                loadContent(initialPath);
-                updateNavigation(initialPath);
-            });
-
-        // Listen for browser back/forward buttons
-        window.onpopstate = (e) => {
-            const path = e.state ? e.state.path : '/';
-            loadContent(path);
-            updateNavigation(path);
-        };
-    </script>
+    <!-- Main Application Script -->
+    <script src="script.js"></script>
 </body>
 </html>
