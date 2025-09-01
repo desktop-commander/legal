@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms of Service</title>
+    <title>Privacy Policy</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Markdown-it CDN -->
@@ -17,8 +17,8 @@
         <aside class="w-64 bg-white min-h-screen p-8 shadow-lg">
             <h1 class="text-2xl font-bold mb-8">Legal Documents</h1>
             <nav class="space-y-4">
-                <a href="index.html" class="block text-lg text-blue-600 font-semibold">Terms of Service</a>
-                <a href="privacy.html" class="block text-lg text-gray-700 hover:text-blue-600">Privacy Policy</a>
+                <a href="index.html" class="block text-lg text-gray-700 hover:text-blue-600">Terms of Service</a>
+                <a href="privacy.html" class="block text-lg text-blue-600 font-semibold">Privacy Policy</a>
             </nav>
         </aside>
 
@@ -34,10 +34,10 @@
     </div>
 
     <script>
-        fetch('tos.md')
+        fetch('mcp-privacy-policy.md')
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Failed to load tos.md');
+                    throw new Error('Failed to load mcp-privacy-poicy.md');
                 }
                 return response.text();
             })
