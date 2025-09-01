@@ -9,13 +9,87 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Markdown-it CDN -->
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.0.4/dist/markdown-it.min.js"></script>
+    <style>
+        /* Custom styles for rendered markdown */
+        #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+            font-weight: 600;
+            margin-top: 1.5em;
+            margin-bottom: 0.75em;
+            color: #1a202c; /* text-gray-900 */
+        }
+        #content h1 {
+            font-size: 2.25rem; /* text-4xl */
+            border-bottom: 1px solid #e2e8f0; /* border-gray-300 */
+            padding-bottom: 0.5em;
+        }
+        #content h2 {
+            font-size: 1.875rem; /* text-3xl */
+            border-bottom: 1px solid #e2e8f0; /* border-gray-300 */
+            padding-bottom: 0.5em;
+        }
+        #content h3 {
+            font-size: 1.5rem; /* text-2xl */
+        }
+        #content p {
+            margin-bottom: 1.25em;
+            line-height: 1.7;
+            color: #4a5568; /* text-gray-700 */
+        }
+        #content a {
+            color: #4299e1; /* text-blue-500 */
+            text-decoration: underline;
+        }
+        #content a:hover {
+            color: #2b6cb0; /* text-blue-700 */
+        }
+        #content ul, #content ol {
+            padding-left: 2em;
+            margin-bottom: 1.25em;
+            color: #4a5568; /* text-gray-700 */
+        }
+        #content li {
+            margin-bottom: 0.5em;
+        }
+        #content ul {
+            list-style-type: disc;
+        }
+        #content ol {
+            list-style-type: decimal;
+        }
+        #content blockquote {
+            border-left: 4px solid #cbd5e0; /* border-gray-400 */
+            padding-left: 1em;
+            margin: 1.5em 0;
+            font-style: italic;
+            color: #718096; /* text-gray-600 */
+        }
+        #content code:not(pre > code) {
+            background-color: #edf2f7; /* bg-gray-200 */
+            color: #c53030; /* red-700 */
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-size: 85%;
+        }
+        #content pre {
+            background-color: #1a202c; /* bg-gray-900 */
+            color: #e2e8f0; /* text-gray-300 */
+            padding: 1.25em;
+            border-radius: 6px;
+            overflow-x: auto;
+            margin-bottom: 1.5em;
+        }
+        #content pre code {
+           background-color: transparent;
+           padding: 0;
+           color: inherit;
+        }
+    </style>
 </head>
 <body class="bg-gray-100">
 
     <div class="flex">
         <!-- Sidebar Navigation -->
         <aside class="w-64 bg-white min-h-screen p-8 shadow-lg">
-            <h1 class="text-2xl font-bold mb-8">Legal Documents</h1>
             <nav class="space-y-4">
                 <a href="index.html" class="block text-lg text-gray-700 hover:text-blue-600">Terms of Service</a>
                 <a href="privacy.html" class="block text-lg text-blue-600 font-semibold">Privacy Policy</a>
