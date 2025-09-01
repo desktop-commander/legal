@@ -3,7 +3,7 @@
 const routes = {
     '/': 'terms_of_use.md',
     '/terms_of_use': 'terms_of_use.md',
-    '/privacy': 'mcp-privacy-policy.md',
+    '/privacy_desktop_commander_mcp': 'mcp-privacy-policy.md',
     '/404': '404.md'
 };
 
