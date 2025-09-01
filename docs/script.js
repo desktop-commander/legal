@@ -9,7 +9,7 @@ const routes = {
 
 const menuItems = [
     { "title": "Terms of Service", "url": "/terms_of_use" },
-    { "title": "Privacy Policy", "url": "/privacy" }
+    { "title": "Privacy Policy for Desktop Commander MCP", "url": "/privacy_desktop_commander_mcp" }
 ];
 
 // --- DOM ELEMENTS ---
