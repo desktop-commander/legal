@@ -44,15 +44,29 @@
         </main>
     </div>
 
-    <script>
+        <script>
+        // --- GITHUB PAGES HACK ---
+        // On a 404, GitHub Pages serves this file. This script redirects to the
+        // root index.html, using sessionStorage to pass the intended path.
+        (function() {
+            const path = window.location.pathname;
+            // Don't redirect if we are on the root or already on index.html
+            if (path !== '/' && path !== '/index.html') {
+                sessionStorage.redirect = path;
+                // Use a meta tag for redirection as it's more reliable
+                document.write('<meta http-equiv="refresh" content="0;url=/?' + path + '">');
+            }
+        })();
+
+        // --- THE REST OF THE SCRIPT ---
         const contentEl = document.getElementById('content');
         const navMenuEl = document.getElementById('navigation-menu');
         const md = window.markdownit();
 
         // --- ROUTER & CONTENT LOADER ---
         const routes = {
-            '/': 'terms_of_use.md',
-            '/terms_of_use': 'terms_of_use.md',
+            '/': 'terms_of_us.md',
+            '/terms_of_us': 'terms_of_us.md',
             '/privacy': 'mcp-privacy-policy.md',
             '/404': '404.md' // A fallback markdown file
         };
@@ -77,7 +91,7 @@
             const links = navMenuEl.querySelectorAll('a');
             links.forEach(link => {
                 const linkPath = new URL(link.href).pathname;
-                if (linkPath === path || (path === '/' && linkPath === '/terms_of_use')) {
+                if (linkPath === path || (path === '/' && linkPath === '/terms_of_us')) {
                     link.className = 'block text-lg text-blue-600 font-semibold';
                 } else {
                     link.className = 'block text-lg text-gray-700 hover:text-blue-600';
@@ -104,12 +118,6 @@
                     navMenuEl.appendChild(link);
                 });
                 // Initial page load
-                const redirectedPath = sessionStorage.getItem('redirect');
-                if (redirectedPath) {
-                    sessionStorage.removeItem('redirect');
-                    const path = redirectedPath.split('?')[0]; // clean up query params
-                    window.history.replaceState({ path: path }, '', path);
-                }
                 const initialPath = window.location.pathname;
                 loadContent(initialPath);
                 updateNavigation(initialPath);
