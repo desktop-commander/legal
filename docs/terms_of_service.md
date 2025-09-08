@@ -1,5 +1,5 @@
 # Terms of Service  
-**Last Updated: September 1, 2025**  
+**Last Updated: September 8, 2025**  
 
 Welcome, and thank you for your interest in **Desktop Commander SIA** (“Desktop Commander,” “we,” or “us”). These Terms of Service (“Terms”) govern your access to and use of Desktop Commander’s software, platform, APIs, documentation, website **https://desktopcommander.app**, and related tools (collectively, the “Service”). By using the Service, you agree to these Terms.  
 
@@ -17,16 +17,13 @@ Desktop Commander provides software tools and services designed to help you mana
 ### 1.2. Content  
 You may provide inputs to the Service (“Inputs”) and receive outputs or other functions based on those Inputs (“Outputs”) (collectively, “Content”). We may use Content to provide the Service, comply with law, enforce policies, and maintain security. By submitting Inputs, you represent that you have all necessary rights and permissions for us to process them.  
 
-### 1.3. Model Training  
-DESKTOP COMMANDER WILL NOT USE YOUR CONTENT TO TRAIN AI MODELS UNLESS YOU PROVIDE EXPLICIT CONSENT.  
-
-### 1.4. Limitations of Outputs  
+### 1.3. Limitations of Outputs  
 Outputs are generated using automated systems and may contain errors or inaccuracies. You are solely responsible for evaluating and using Outputs.  
 
-### 1.5. Use Restrictions  
+### 1.4. Use Restrictions  
 Except as required by law, you may not:  
-- Reverse engineer or attempt to access the source code of the Service.  
-- Reproduce, modify, or create derivative works of the Service.  
+- Reverse engineer or attempt to access the source code of any non–open‑source components of the Service. For components released under an open‑source license, your rights (including access, modification, and redistribution) are governed by the applicable open‑source license.
+- Reproduce, modify, or create derivative works of any non–open‑source components, except as permitted by applicable law.
 - Rent, lease, or resell the Service.  
 - Use the Service to develop competing software or models.  
 - Access or scrape data from the Service without authorization.  
@@ -34,10 +31,10 @@ Except as required by law, you may not:
 
 You agree to promptly notify Desktop Commander of unauthorized use.  
 
-### 1.6. Beta Services  
+### 1.5. Beta Services  
 Beta features may be offered for testing and evaluation purposes. Beta Services are provided “as-is” without any warranties and may be discontinued at any time.  
 
-### 1.7. Auto-Execution Features  
+### 1.6. Auto-Execution Features  
 Some features may automatically execute commands or scripts. By enabling these features, you assume all risks, including security vulnerabilities, data loss, or downtime.  
 
 ---
@@ -54,22 +51,16 @@ To access certain features, you must register for an account and provide accurat
 
 ## 4. Payment Terms  
 
-### 4.1. Paid Services  
-Some features may require fees. All fees are listed in EUR and are non-refundable except as required by law.  
-
-### 4.2. Pricing  
+### 4.1. Pricing  
 Desktop Commander reserves the right to change pricing with reasonable notice.  
 
-### 4.3. Payment Processing  
+### 4.2. Payment Processing  
 We may use third-party payment processors (e.g., Stripe) to handle payments. Your use of their services is subject to their terms and privacy policies.  
 
-### 4.4. Subscriptions  
-Subscription plans renew automatically unless canceled at least 24 hours before renewal.  
-
-### 4.5. Add-On Features  
+### 4.3. Add-On Features  
 You may purchase optional features on a per-use or subscription basis.  
 
-### 4.6. Delinquent Accounts  
+### 4.4. Delinquent Accounts  
 Accounts with overdue payments may be suspended or terminated.  
 
 ---
