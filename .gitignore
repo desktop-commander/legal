@@ -1,0 +1,6 @@
+# Local artifacts / working files
+output/
+input/
+
+# macOS
+.DS_Store
