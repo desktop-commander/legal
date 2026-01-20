@@ -18,7 +18,7 @@ The Service includes the following products:
 
 - **"Desktop Commander App"** – Our desktop application for macOS, Windows, and Linux, which provides a graphical interface and includes embedded MCP functionality.
 
-- **"Desktop Commander Remote"** – Our cloud-based service for remote device execution, requiring account registration and enabling authenticated connections between devices.
+- **"Remote Desktop Commander"** – Our cloud-based service for remote device execution, requiring account registration and enabling authenticated connections between devices.
 
 - **"Website"** – https://desktopcommander.app and related web properties.
 
@@ -67,9 +67,9 @@ We may offer beta features for testing and evaluation. Beta Services may be inco
 
 Some features may automatically execute commands or scripts. You are responsible for enabling and configuring these features, reviewing what will run, testing in safe environments, and maintaining appropriate backups. To the extent required by applicable law, Desktop Commander remains responsible for damage directly caused by defects in the Service's functionality.
 
-### 1.7. Desktop Commander Remote
+### 1.7. Remote Desktop Commander
 
-When using Desktop Commander Remote, the following additional terms apply:
+When using Remote Desktop Commander, the following additional terms apply:
 
 - (a) You are responsible for securing your account credentials and any devices you connect to the Service.
 
@@ -220,7 +220,7 @@ Our privacy practices vary by product:
 
 - **Desktop Commander MCP**: See our [MCP Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_mcp)
 - **Desktop Commander App**: See our [App Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_app)
-- **Desktop Commander Remote**: See our [Remote Privacy Policy](https://legal.desktopcommander.app/remote_privacy_policy)
+- **Remote Desktop Commander**: See our [Remote Privacy Policy](https://legal.desktopcommander.app/remote_privacy_policy)
 - **Website**: See our [Website Privacy Policy](https://legal.desktopcommander.app/website_privacy_policy)
 
 
