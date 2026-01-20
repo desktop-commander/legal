@@ -218,10 +218,10 @@ If you believe your intellectual property rights are infringed, email us at lega
 
 Our privacy practices vary by product:
 
-- **Desktop Commander MCP**: See our [MCP Privacy Policy](https://github.com/wonderwhy-er/DesktopCommanderMCP/blob/main/PRIVACY.md)
-- **Desktop Commander App**: See our [App Privacy Policy](https://desktopcommander.app/app-privacy)
+- **Desktop Commander MCP**: See our [MCP Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_mcp)
+- **Desktop Commander App**: See our [App Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_app)
 - **Desktop Commander Remote**: See our [Remote Privacy Policy](https://github.com/desktop-commander/remote-dc-mcp/blob/main/PRIVACY.md)
-- **Website**: See our [Website Privacy Policy](https://desktopcommander.app/privacy)
+- **Website**: See our [Website Privacy Policy](https://legal.desktopcommander.app/website_privacy_policy)
 
 
 ---
