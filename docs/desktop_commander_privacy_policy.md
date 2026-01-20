@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: January 20, 2026**
+**Last Updated: January 14, 2025**
 
 
 This Privacy Policy describes how Desktop Commander (“Desktop Commander,” “we,” “us,” or “our”) processes personal information that we collect through our digital or online properties or services that link to this Privacy Policy (including, as applicable, our website desktopcommander.app, social media pages, marketing activities, live events, and other activities described in this Privacy Policy (collectively, the “Service”)). Desktop Commander may provide additional or supplemental privacy policies to individuals for specific products or services that we offer at the time we collect personal information.
@@ -44,58 +44,10 @@ This Privacy Policy describes how Desktop Commander (“Desktop Commander,” �
 
 ## 2. Google User Data
 
-If you sign in to the Service using your Google account, the following applies to your Google user data:
-
-### 2.1. Data Accessed
-
-When you authenticate with Google, we request access to the following scopes:
-- **email**: Your Google account email address
-- **profile**: Your name and profile picture
-- **openid**: Basic authentication identifier
-
-We do **not** request access to Gmail, Google Drive, Google Calendar, or any other Google services beyond basic profile information.
-
-### 2.2. How We Use Google Data
-
-We use your Google user data solely for the following purposes:
-- **Account Creation and Authentication**: To create your Desktop Commander account and verify your identity when you sign in
-- **User Profile**: To display your name and profile picture within the Service
-- **Account Communication**: To send you service-related emails (security alerts, account notifications) to your Google email address
-
-We do **not** use your Google data for:
-- Advertising or marketing to third parties
-- Training AI models
-- Any purpose unrelated to providing the Service
-
-### 2.3. Data Sharing
-
-Your Google user data is shared only with:
-- **Supabase**: Our authentication and database provider, which stores your account information securely
-- **Sentry**: Our error monitoring service, which may receive your email for error tracking (with masking enabled)
-
-We do **not** sell, rent, or share your Google user data with advertisers, data brokers, or any other third parties for their own purposes.
-
-### 2.4. Data Storage and Protection
-
-Your Google user data is:
-- Stored in Supabase's secure infrastructure (AWS, EU region)
-- Protected by industry-standard encryption in transit (TLS) and at rest
-- Accessible only to authorized personnel for support and security purposes
-- Subject to Supabase's security practices and certifications
-
-### 2.5. Data Retention and Deletion
-
-- **Retention**: Your Google user data is retained for as long as your account remains active
-- **Account Deletion**: You may request deletion of your account and all associated data by contacting privacy@desktopcommander.app or through your account settings
-- **Deletion Timeline**: Upon receiving a deletion request, we will delete your Google user data within 30 days, except where retention is required by law
-- **Revoke Access**: You can revoke Desktop Commander's access to your Google account at any time through your [Google Account Security Settings](https://myaccount.google.com/permissions)
-
-### 2.6. Additional Restrictions
-
-Notwithstanding anything else in this Privacy Policy:
-- (a) The Service will not access your Gmail messages or any Google service data beyond basic profile information.
+If you connect the Service to a Google account, this Privacy Policy will apply to Google user data collected as well as to other categories of personal information. Notwithstanding anything else in this Privacy Policy, if you provide the Service access to the following types of your Google data, the Service’s use of that data will be subject to these additional restrictions:
+- (a) The Service will not access your Gmail messages.
 - (b) The Service will not use Google data for serving advertisements.
-- (c) The Service will not allow humans to read Google data unless necessary for security purposes (such as investigating abuse), to comply with applicable law, or for the Service's internal operations.
+- (c) The Service will not allow humans to read Google data unless we have your affirmative agreement for specific messages or email content, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the Service’s internal operations, and even then only when the data have been aggregated and anonymized.
 
 ---
 
