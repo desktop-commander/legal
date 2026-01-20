@@ -1,20 +1,12 @@
-# Privacy Policy for Desktop Commander Remote
+# Privacy Policy for Remote Desktop Commander
 
 **Last updated: January 20, 2026**
 
 ## Introduction
 
-We at Desktop Commander are committed to respecting your privacy and keeping secure any information collected through our service. This privacy policy explains how we collect, use, and protect your data when you use Desktop Commander Remote ("the Service").
+We at Desktop Commander are committed to respecting your privacy and keeping secure any information collected through our service. This privacy policy explains how we collect, use, and protect your data when you use Remote Desktop Commander ("the Service").
 
-Desktop Commander Remote is a cloud-based service that enables remote device execution through authenticated connections. This policy applies to all data collected through the Service, including our web application, API, and connected devices.
-
-## Local MCP Server
-
-To use Desktop Commander Remote, you install the Desktop Commander MCP server locally on your device. The local MCP server has its own telemetry and data collection practices, which are covered by a separate privacy policy.
-
-**See**: [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy)
-
-The local MCP server collects anonymized telemetry data (opt-out) to help improve the software, including usage events, platform information, and error reports. This data collection is separate from the Remote service and can be disabled independently.
+Remote Desktop Commander is a cloud-based service that enables remote device execution through authenticated connections. This policy applies to all data collected through the Service, including our web application, API, and connected devices.
 
 ## Data Collection
 
@@ -121,7 +113,7 @@ We do **not** request access to Gmail, Google Drive, Google Calendar, or any oth
 ### How We Use Google Data
 
 We use your Google user data solely for the following purposes:
-- **Account Creation and Authentication**: To create your Desktop Commander Remote account and verify your identity when you sign in
+- **Account Creation and Authentication**: To create your Remote Desktop Commander account and verify your identity when you sign in
 - **User Profile**: To display your name and profile picture within the Service
 - **Account Communication**: To send you service-related emails (security alerts, account notifications) to your Google email address
 
@@ -280,6 +272,14 @@ If you are located in the European Economic Area, United Kingdom, or Switzerland
 
 You have the right to lodge a complaint with your local data protection authority if you believe we have violated your data protection rights.
 
+## Local MCP Server
+
+To use Remote Desktop Commander, you install the Desktop Commander MCP server locally on your device. The local MCP server has its own telemetry and data collection practices, which are covered by a separate privacy policy.
+
+**See**: [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy)
+
+The local MCP server collects anonymized telemetry data (opt-out available) to help improve the software, including usage events, platform information, and error reports. This data collection is separate from the Remote service and can be disabled independently.
+
 ---
 
-*This privacy policy applies to Desktop Commander Remote. For the Desktop Commander MCP server (local installation), see the [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy).*
+*This privacy policy applies to Remote Desktop Commander. For the Desktop Commander MCP server (local installation), see the [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy).*
