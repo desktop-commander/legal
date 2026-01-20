@@ -2,7 +2,7 @@
 
 **Last Updated: January 20, 2026**
 
-Welcome, and thank you for your interest in Desktop Commander SIA ("Desktop Commander," "we," or "us"). These Terms of Service ("Terms") govern your access to and use of Desktop Commander's software, platform, APIs, documentation, website https://desktopcommander.app, and related tools (collectively, the "Service"). By using the Service, you agree to these Terms.
+Welcome, and thank you for your interest in Desktop Commander SIA (“Desktop Commander,” “we,” or “us”). These Terms of Service (“Terms”) govern your access to and use of Desktop Commander’s software, platform, APIs, documentation, website https://desktopcommander.app, and related tools (collectively, the “Service”). By using the Service, you agree to these Terms.
 
 Please also read our Privacy Policy, which explains how we collect, use, disclose, and process personal data.
 
@@ -35,7 +35,7 @@ Desktop Commander provides software tools and services designed to help you mana
 
 ### 1.2. Content
 
-You may provide inputs to the Service ("Inputs") and receive outputs or other results ("Outputs") (together, "Content"). We use Content only to: (a) provide and operate the Service; (b) maintain security, prevent abuse, troubleshoot, and enforce our policies; (c) comply with legal obligations; and (d) improve the Service using aggregated or de-identified data where reasonably possible. We do not train AI models on your Content. We may disclose Content to service providers who help us operate the Service, where required by law, or with your consent. You represent that you have all rights and permissions needed for us to process your Inputs. We retain Content for up to 30 days after account closure to support export or deletion, unless a longer period is required by applicable law.
+You may provide inputs to the Service (“Inputs”) and receive outputs or other results (“Outputs”) (together, “Content”). We use Content only to: (a) provide and operate the Service; (b) maintain security, prevent abuse, troubleshoot, and enforce our policies; (c) comply with legal obligations; and (d) improve the Service using aggregated or de-identified data where reasonably possible. We do not train AI models on your Content. We may disclose Content to service providers who help us operate the Service, where required by law, or with your consent. You represent that you have all rights and permissions needed for us to process your Inputs. We retain Content for up to 30 days after account closure to support export or deletion, unless a longer period is required by applicable law.
 
 ### 1.3. Limitations of Outputs
 
@@ -61,7 +61,7 @@ You agree to notify Desktop Commander promptly if you become aware of unauthoriz
 
 ### 1.5. Beta Services
 
-We may offer beta features for testing and evaluation. Beta Services may be incomplete, contain bugs, or change without notice, and may be discontinued at any time. To the extent permitted by applicable law, Beta Services are provided "as is" and without warranties. Nothing in these Terms limits rights or remedies that cannot be excluded under applicable law.
+We may offer beta features for testing and evaluation. Beta Services may be incomplete, contain bugs, or change without notice, and may be discontinued at any time. To the extent permitted by applicable law, Beta Services are provided “as is” and without warranties. Nothing in these Terms limits rights or remedies that cannot be excluded under applicable law.
 
 ### 1.6. Auto-Execution Features
 
@@ -106,7 +106,7 @@ We may change our prices by providing reasonable advance notice (for example, by
 
 ### 4.2. Payment Processing
 
-We use third-party payment processors (such as Stripe) to process payments on our behalf. Payment processing is subject to the processor's terms and privacy policy, in addition to these Terms.
+We use third-party payment processors (such as Stripe) to process payments on our behalf. Payment processing is subject to the processor’s terms and privacy policy, in addition to these Terms.
 
 ### 4.3. Add-On Features
 
@@ -187,7 +187,7 @@ We may suspend or terminate your account if: (a) you materially breach these Ter
 
 ### 9.3. Service Discontinuation
 
-If we discontinue the Service entirely, we will provide at least 30 days' notice, or as much notice as reasonably possible given the circumstances. Refunds, if any, will be issued as specified in Section 4.5 and as required by applicable law.
+If we discontinue the Service entirely, we will provide at least 30 days’ notice, or as much notice as reasonably possible given the circumstances. Refunds, if any, will be issued as specified in Section 4.5 and as required by applicable law.
 
 ### 9.4. Refunds Upon Termination
 
@@ -228,21 +228,21 @@ Our privacy practices vary by product:
 
 ## 13. Indemnity
 
-You agree to indemnify Desktop Commander, its affiliates, and employees from claims related to your use of the Service or your violation of these Terms. This indemnity does not apply to the extent a claim results from Desktop Commander's breach of these Terms, negligence, or violation of applicable law.
+You agree to indemnify Desktop Commander, its affiliates, and employees from claims related to your use of the Service or your violation of these Terms. This indemnity does not apply to the extent a claim results from Desktop Commander’s breach of these Terms, negligence, or violation of applicable law.
 
 
 ---
 
 ## 14. Disclaimer of Warranties
 
-THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE," TO THE EXTENT PERMITTED BY APPLICABLE LAW. NOTHING IN THESE TERMS LIMITS RIGHTS OR REMEDIES THAT CANNOT BE EXCLUDED UNDER APPLICABLE LAW.
+THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE,” TO THE EXTENT PERMITTED BY APPLICABLE LAW. NOTHING IN THESE TERMS LIMITS RIGHTS OR REMEDIES THAT CANNOT BE EXCLUDED UNDER APPLICABLE LAW.
 
 
 ---
 
 ## 15. Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DESKTOP COMMANDER'S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THE SERVICE IS LIMITED TO THE GREATER OF €100 (OR ITS EQUIVALENT IN LOCAL CURRENCY) OR THE AMOUNT YOU PAID TO US FOR THE SERVICE IN THE LAST SIX (6) MONTHS. THIS LIMITATION DOES NOT APPLY TO THE EXTENT LIABILITY CANNOT BE LIMITED OR EXCLUDED UNDER APPLICABLE LAW.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DESKTOP COMMANDER’S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THE SERVICE IS LIMITED TO THE GREATER OF €100 (OR ITS EQUIVALENT IN LOCAL CURRENCY) OR THE AMOUNT YOU PAID TO US FOR THE SERVICE IN THE LAST SIX (6) MONTHS. THIS LIMITATION DOES NOT APPLY TO THE EXTENT LIABILITY CANNOT BE LIMITED OR EXCLUDED UNDER APPLICABLE LAW.
 
 
 ---
