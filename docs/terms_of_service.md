@@ -1,12 +1,28 @@
 # Terms of Service
 
-**Last Updated: January 14, 2025**
+**Last Updated: January 20, 2026**
 
 Welcome, and thank you for your interest in Desktop Commander SIA (“Desktop Commander,” “we,” or “us”). These Terms of Service (“Terms”) govern your access to and use of Desktop Commander’s software, platform, APIs, documentation, website https://desktopcommander.app, and related tools (collectively, the “Service”). By using the Service, you agree to these Terms.
 
 Please also read our Privacy Policy, which explains how we collect, use, disclose, and process personal data.
 
 If you are entering into these Terms on behalf of a company or organization, you represent that you have the legal authority to bind that entity.
+
+---
+
+## Definitions
+
+The Service includes the following products:
+
+- **"Desktop Commander MCP"** – Our open-source MCP (Model Context Protocol) server, released under the MIT license and available at https://github.com/wonderwhy-er/DesktopCommanderMCP. Your use of Desktop Commander MCP is governed by the MIT license, which takes precedence over these Terms where applicable.
+
+- **"Desktop Commander App"** – Our desktop application for macOS, Windows, and Linux, which provides a graphical interface and includes embedded MCP functionality.
+
+- **"Remote Desktop Commander"** – Our cloud-based service for remote device execution, requiring account registration and enabling authenticated connections between devices.
+
+- **"Website"** – https://desktopcommander.app and related web properties.
+
+Where these Terms conflict with an applicable open-source license (such as the MIT license for Desktop Commander MCP), the open-source license governs your use of that component.
 
 
 ---
@@ -49,7 +65,21 @@ We may offer beta features for testing and evaluation. Beta Services may be inco
 
 ### 1.6. Auto-Execution Features
 
-Some features may automatically execute commands or scripts. You are responsible for enabling and configuring these features, reviewing what will run, testing in safe environments, and maintaining appropriate backups. To the extent required by applicable law, Desktop Commander remains responsible for damage directly caused by defects in the Service’s functionality.
+Some features may automatically execute commands or scripts. You are responsible for enabling and configuring these features, reviewing what will run, testing in safe environments, and maintaining appropriate backups. To the extent required by applicable law, Desktop Commander remains responsible for damage directly caused by defects in the Service's functionality.
+
+### 1.7. Remote Desktop Commander
+
+When using Remote Desktop Commander, the following additional terms apply:
+
+- (a) You are responsible for securing your account credentials and any devices you connect to the Service.
+
+- (b) You must have appropriate rights and authorization to execute commands on any devices you connect.
+
+- (c) Tool execution data (including tool arguments and results) is stored only for the duration necessary to execute the request and synchronize between your systems, and is deleted immediately after completion. We do not retain, analyze, or use this data for any other purposes.
+
+- (d) You are responsible for the commands and tools you execute through the Service and any consequences of their execution.
+
+- (e) We may suspend or terminate access if we detect unauthorized, abusive, or potentially harmful usage patterns.
 
 
 ---
@@ -186,7 +216,12 @@ If you believe your intellectual property rights are infringed, email us at lega
 
 ## 12. Privacy
 
-See our Privacy Policy for details on how we handle your personal data.
+Our privacy practices vary by product:
+
+- **Desktop Commander MCP**: See our [MCP Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_mcp)
+- **Desktop Commander App**: See our [App Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_app)
+- **Remote Desktop Commander**: See our [Remote Privacy Policy](https://legal.desktopcommander.app/remote_privacy_policy)
+- **Website**: See our [Website Privacy Policy](https://legal.desktopcommander.app/website_privacy_policy)
 
 
 ---

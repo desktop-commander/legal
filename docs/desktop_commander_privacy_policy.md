@@ -132,16 +132,29 @@ We retain personal data only for as long as necessary to provide the Service, co
 
 ## 11. Children
 
-The Service is not intended for use by anyone under the age of majority where they live. If you are a parent or guardian of a child from whom you believe we have collected personal information in a manner prohibited by law, please contact us. If we learn that we have collected personal information through the Service from a child without required consent, we will comply with applicable legal requirements to delete the information.
+The Service is not intended for use by anyone under 18 years of age or the age of majority in their jurisdiction, whichever is higher. If you are a parent or guardian of a child from whom you believe we have collected personal information in a manner prohibited by law, please contact us. If we learn that we have collected personal information through the Service from a child without required consent, we will comply with applicable legal requirements to delete the information.
 
 ---
 
-## 12. Changes to this Privacy Policy
+## 12. Legal Bases for Processing (EEA, UK, and Switzerland)
+
+If you are located in the European Economic Area, United Kingdom, or Switzerland, we process your personal information under the following legal bases:
+
+- **Performance of a Contract**: To provide the Service, manage your account, and deliver requested features
+- **Legitimate Interests**: To improve and secure the Service, perform analytics, and communicate with you
+- **Consent**: Where required by law, such as for certain types of marketing
+- **Legal Obligations**: To comply with applicable laws and regulations
+
+You have the right to lodge a complaint with your local data protection authority if you believe we have violated your data protection rights.
+
+---
+
+## 13. Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time. If a change is material, we will provide reasonable advance notice (for example, by posting a notice in the Service or by email) and indicate when the change takes effect. Non-material changes may take effect upon posting. Your continued use of the Service after the effective date means this Privacy Policy applies to your use of the Service.
 
 ---
 
-## 13. How to Contact Us
+## 14. How to Contact Us
 
 Email: legal@desktopcommander.app

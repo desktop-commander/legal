@@ -74,14 +74,14 @@ We retain analytics data for up to 2 years. Email subscription data is retained 
 
 ## Children
 
-Our website is not directed at children under 16. We do not knowingly collect personal information from children.
+Our website is not intended for use by anyone under 18 years of age or the age of majority in their jurisdiction, whichever is higher. We do not knowingly collect personal information from children.
 
 ## Changes to This Policy
 
-We may update this policy from time to time. We will notify subscribers of significant changes via email.
+We may update this Privacy Policy from time to time. If a change is material, we will provide reasonable advance notice (for example, by posting a notice in the Service or by email) and indicate when the change takes effect. Non-material changes may take effect upon posting. Your continued use of the Service after the effective date means this Privacy Policy applies to your use of the Service.
 
 ## Contact Us
 
 If you have questions about this privacy policy or want to exercise your rights, contact us at:
 
-[privacy@desktopcommander.app](mailto:privacy@desktopcommander.app)
+[legal@desktopcommander.app](mailto:legal@desktopcommander.app)

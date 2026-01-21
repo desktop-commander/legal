@@ -77,7 +77,7 @@ We do not store or have access to IP addresses. Our analytics provider (Google A
 
 ### Children
 
-Desktop Commander is not directed at children under the age of 18. We do not knowingly collect information from children. If we learn that we have collected personal data from a child, we will take steps to delete that information.
+Desktop Commander is not intended for use by anyone under 18 years of age or the age of majority in their jurisdiction, whichever is higher. We do not knowingly collect information from children. If we learn that we have collected personal data from a child, we will take steps to delete that information.
 
 ## How We Use Data
 
@@ -148,14 +148,14 @@ The most effective way to exercise your privacy rights is to disable telemetry a
 - To ensure old data is removed: it will automatically purge after 14 months
 - If you uninstall Desktop Commander and delete your config file, there is no way to link any stored analytics data back to you
 
-## Privacy Policy Changes
+## Changes to This Policy
 
-We may update this privacy policy from time to time. When we do, we will publish an updated version and effective date at the top of this page. Your continued use of Desktop Commander after any change constitutes acceptance of the updated policy.
+We may update this Privacy Policy from time to time. If a change is material, we will provide reasonable advance notice (for example, by posting a notice in the Service or by email) and indicate when the change takes effect. Non-material changes may take effect upon posting. Your continued use of the Service after the effective date means this Privacy Policy applies to your use of the Service.
 
 ## Contact
 
 - **General questions**: Open an issue on our [GitHub repository](https://github.com/wonderwhy-er/DesktopCommanderMCP)
-- **Privacy concerns**: privacy@desktopcommander.app
+- **Privacy concerns**: legal@desktopcommander.app
 
 We aim to respond to privacy inquiries within 30 days.
 
