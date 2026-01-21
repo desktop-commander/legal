@@ -5,6 +5,7 @@ const routes = {
     '/terms_of_service': 'terms_of_service.md',
     '/privacy_desktop_commander_mcp': 'mcp-privacy-policy.md',
     '/privacy_desktop_commander_app': 'desktop_commander_privacy_policy.md',
+    '/remote_privacy_policy': 'remote_privacy_policy.md',
     '/website_privacy_policy': 'website_privacy_policy.md',
     '/404': '404.md'
 };
@@ -13,6 +14,7 @@ const menuItems = [
     { "title": "Terms of Service", "url": "/terms_of_service" },
     { "title": "Privacy Policy for Desktop Commander MCP", "url": "/privacy_desktop_commander_mcp" },
     { "title": "Privacy Policy for Desktop Commander App", "url": "/privacy_desktop_commander_app" },
+    { "title": "Privacy Policy for Remote Desktop Commander", "url": "/remote_privacy_policy" },
     { "title": "Website Privacy Policy", "url": "/website_privacy_policy" }
 ];
 
