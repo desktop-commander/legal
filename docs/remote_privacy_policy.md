@@ -1,6 +1,6 @@
 # Privacy Policy for Remote Desktop Commander
 
-**Last updated: January 20, 2026**
+**Last updated: January 21, 2026**
 
 ## Introduction
 
@@ -187,6 +187,23 @@ We use your data for the following purposes:
 **Communication:**
 - Send service-related announcements
 - Respond to support requests
+
+## Marketing Communications
+
+If you opt in during sign-up, we may send you:
+- Product updates and new feature announcements
+- Tips and best practices for using Remote Desktop Commander
+- News about related Desktop Commander products
+
+**Your choices:**
+- Marketing emails are **opt-in only** - we will not send them unless you check the box during sign-up
+- Every marketing email includes an unsubscribe link
+- You can withdraw consent at any time by:
+  - Clicking "Unsubscribe" in any marketing email
+  - Contacting us at privacy@desktopcommander.app
+- Unsubscribing from marketing does not affect service-related emails (security alerts, account notifications)
+
+We do **not** share your email with third parties for their marketing purposes.
 
 ## Data Retention
 
