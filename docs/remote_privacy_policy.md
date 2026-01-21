@@ -141,7 +141,7 @@ Your Google user data is:
 ### Google Data Retention and Deletion
 
 - **Retention**: Your Google user data is retained for as long as your account remains active
-- **Account Deletion**: You may request deletion of your account and all associated data by contacting privacy@desktopcommander.app or through your account settings
+- **Account Deletion**: You may request deletion of your account and all associated data by contacting legal@desktopcommander.app or through your account settings
 - **Deletion Timeline**: Upon receiving a deletion request, we will delete your Google user data within 30 days, except where retention is required by law
 - **Revoke Access**: You can revoke Desktop Commander's access to your Google account at any time through your [Google Account Security Settings](https://myaccount.google.com/permissions)
 
@@ -200,7 +200,7 @@ If you opt in during sign-up, we may send you:
 - Every marketing email includes an unsubscribe link
 - You can withdraw consent at any time by:
   - Clicking "Unsubscribe" in any marketing email
-  - Contacting us at privacy@desktopcommander.app
+  - Contacting us at legal@desktopcommander.app
 - Unsubscribing from marketing does not affect service-related emails (security alerts, account notifications)
 
 We do **not** share your email with third parties for their marketing purposes.
@@ -236,7 +236,7 @@ You can view your account information, connected devices, and active sessions th
 ### Delete Your Data
 
 - **Delete a device**: Revoke individual devices from your account dashboard
-- **Delete your account**: Contact us at privacy@desktopcommander.app to request full account deletion
+- **Delete your account**: Contact us at legal@desktopcommander.app to request full account deletion
 - **Clear session data**: Sign out to clear your active sessions
 
 ### Opt-Out of Analytics
@@ -246,7 +246,7 @@ You can view your account information, connected devices, and active sessions th
 
 ### Export Your Data
 
-Contact us at privacy@desktopcommander.app to request an export of your data.
+Contact us at legal@desktopcommander.app to request an export of your data.
 
 ## Data Transfers
 
@@ -258,22 +258,17 @@ The Service is operated from servers that may be located in the United States an
 
 ## Children
 
-The Service is not intended for use by anyone under 18 years of age. We do not knowingly collect personal information from children. If we learn that we have collected personal data from a child, we will take steps to delete that information.
+The Service is not intended for use by anyone under 18 years of age or the age of majority in their jurisdiction, whichever is higher. We do not knowingly collect personal information from children. If we learn that we have collected personal data from a child, we will take steps to delete that information.
 
 ## Changes to This Policy
 
-We may update this privacy policy from time to time. When we make material changes, we will:
-
-- Update the "Last updated" date at the top of this page
-- Notify you through the Service interface or via email for significant changes
-
-Your continued use of the Service after changes constitutes acceptance of the updated policy.
+We may update this Privacy Policy from time to time. If a change is material, we will provide reasonable advance notice (for example, by posting a notice in the Service or by email) and indicate when the change takes effect. Non-material changes may take effect upon posting. Your continued use of the Service after the effective date means this Privacy Policy applies to your use of the Service.
 
 ## Contact Us
 
 For privacy-related questions or to exercise your rights:
 
-- **Email**: privacy@desktopcommander.app
+- **Email**: legal@desktopcommander.app
 - **General questions**: Open an issue on our [GitHub repository](https://github.com/desktop-commander/remote-dc-mcp)
 
 We aim to respond to privacy inquiries within 30 days.
