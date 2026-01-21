@@ -218,10 +218,10 @@ If you believe your intellectual property rights are infringed, email us at lega
 
 Our privacy practices vary by product:
 
-- **Desktop Commander MCP**: See our [MCP Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_mcp)
-- **Desktop Commander App**: See our [App Privacy Policy](https://legal.desktopcommander.app/privacy_desktop_commander_app)
-- **Remote Desktop Commander**: See our [Remote Privacy Policy](https://legal.desktopcommander.app/remote_privacy_policy)
-- **Website**: See our [Website Privacy Policy](https://legal.desktopcommander.app/website_privacy_policy)
+- **Desktop Commander MCP**: See our [MCP Privacy Policy](https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp)
+- **Desktop Commander App**: See our [App Privacy Policy](https://legal.desktopcommander.app/#/privacy_desktop_commander_app)
+- **Remote Desktop Commander**: See our [Remote Privacy Policy](https://legal.desktopcommander.app/#/remote_privacy_policy)
+- **Website**: See our [Website Privacy Policy](https://legal.desktopcommander.app/#/website_privacy_policy)
 
 
 ---

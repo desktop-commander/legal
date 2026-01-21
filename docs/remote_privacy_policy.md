@@ -288,10 +288,10 @@ You have the right to lodge a complaint with your local data protection authorit
 
 To use Remote Desktop Commander, you install the Desktop Commander MCP server locally on your device. The local MCP server has its own telemetry and data collection practices, which are covered by a separate privacy policy.
 
-**See**: [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy)
+**See**: [Desktop Commander MCP Privacy Policy](https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp)
 
 The local MCP server collects anonymized telemetry data (opt-out available) to help improve the software, including usage events, platform information, and error reports. This data collection is separate from the Remote service and can be disabled independently.
 
 ---
 
-*This privacy policy applies to Remote Desktop Commander. For the Desktop Commander MCP server (local installation), see the [Desktop Commander MCP Privacy Policy](./mcp-privacy-policy).*
+*This privacy policy applies to Remote Desktop Commander. For the Desktop Commander MCP server (local installation), see the [Desktop Commander MCP Privacy Policy](https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp).*

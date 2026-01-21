@@ -6,7 +6,7 @@
 
 This privacy policy explains how Desktop Commander ("we", "us", or "our") collects, uses, and protects information when you visit our website at desktopcommander.app and related subdomains.
 
-For information about data collection in the Desktop Commander software itself, please see our [Software Privacy Policy](./mcp-privacy-policy.md).
+For information about data collection in the Desktop Commander software itself, please see our [Software Privacy Policy](https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp).
 
 ## What We Collect
 
