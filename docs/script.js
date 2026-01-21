@@ -25,6 +25,15 @@ const md = window.markdownit();
 // --- FUNCTIONS ---
 
 /**
+ * Gets the current path from the URL hash.
+ * @returns {string} The path (e.g., '/privacy_desktop_commander_mcp' from '#/privacy_desktop_commander_mcp')
+ */
+function getHashPath() {
+    const hash = window.location.hash;
+    return hash ? hash.substring(1) : '/'; // Remove the '#' prefix
+}
+
+/**
  * Loads and renders a markdown file into the content element.
  * @param {string} path The URL path to load content for.
  */
@@ -54,8 +63,9 @@ function loadContent(path) {
 function updateNavigation(path) {
     const links = navMenuEl.querySelectorAll('a');
     links.forEach(link => {
-        const linkPath = new URL(link.href).pathname;
-        const isActive = (linkPath === path) || (path === '/' && linkPath === '/terms_of_use');
+        const href = link.getAttribute('href');
+        const linkPath = href.startsWith('#') ? href.substring(1) : href;
+        const isActive = (linkPath === path) || (path === '/' && linkPath === '/terms_of_service');
         link.className = `block text-lg ${isActive ? 'text-blue-600 font-semibold' : 'text-gray-700 hover:text-blue-600'}`;
     });
 }
@@ -67,14 +77,11 @@ function buildMenu() {
     navMenuEl.innerHTML = ''; // Clear loading text
     menuItems.forEach(item => {
         const link = document.createElement('a');
-        link.href = item.url;
+        link.href = '#' + item.url; // Use hash-based URLs
         link.textContent = item.title;
         link.onclick = (e) => {
             e.preventDefault();
-            const newPath = new URL(e.target.href).pathname;
-            window.history.pushState({ path: newPath }, '', newPath);
-            loadContent(newPath);
-            updateNavigation(newPath);
+            window.location.hash = item.url;
         };
         navMenuEl.appendChild(link);
     });
@@ -89,22 +96,14 @@ function buildMenu() {
 function initialize() {
     buildMenu();
     
-    // Handle the GitHub Pages redirect
-    const redirectedPath = sessionStorage.getItem('redirect');
-    if (redirectedPath) {
-        sessionStorage.removeItem('redirect');
-        const path = redirectedPath.split('?')[0];
-        window.history.replaceState({ path: path }, '', path);
-    }
-    
-    const initialPath = window.location.pathname;
+    const initialPath = getHashPath();
     loadContent(initialPath);
     updateNavigation(initialPath);
 }
 
-// Listen for browser back/forward buttons
-window.onpopstate = (e) => {
-    const path = e.state ? e.state.path : '/';
+// Listen for hash changes (including browser back/forward buttons)
+window.onhashchange = () => {
+    const path = getHashPath();
     loadContent(path);
     updateNavigation(path);
 };
