@@ -120,23 +120,21 @@ If a payment is overdue, we may suspend access to the Service after providing no
 
 - (a) Free Credits: We may, at our sole discretion, grant Free Credits to users on the Free Plan. Free Credits expire on the same calendar date of the following month from issuance.
 
-- (b) Paid Credits (Top-ups): Paid Credits may be purchased at any time, subject to minimum purchase amounts as specified on our rate card. Paid Credits remain valid indefinitely while the Service operates.
+- (b) Subscription Fees: Subscription fees are billed monthly in advance and grant a limited license to access the Service under the selected plan for one month. Subscriptions automatically renew unless cancelled prior to the renewal date. Subscription Credits are allocated at the start of each billing period. Unless your subscription is cancelled or not renewed, Subscription Credits expire one (1) month from the date of allocation. Continued access under the same subscription plan requires monthly renewal.
 
-- (c) Subscription Fees: Subscription fees are billed monthly in advance and grant a limited license to access the Service under the selected plan for one month. Subscriptions automatically renew unless cancelled prior to the renewal date. Subscription Credits are allocated at the start of each billing period. Unless your subscription is cancelled or not renewed, Subscription Credits expire one (1) month from the date of allocation. Continued access under the same subscription plan requires monthly renewal.
+- (c) Credit Consumption Order: Credits are consumed in the following order: (1) Free Credits; (2) Subscription Credits; (3) Top-up Credits.
 
-- (d) Credit Consumption Order: Credits are consumed in the following order: (1) Free Credits; (2) Subscription Credits; (3) Top-up Credits.
+- (d) Cancellation and Plan Changes: Upon cancellation, subscriptions remain active through the end of the current billing period. If you cancel or do not renew, any unused Subscription Credits remain available only until the end of the then-current billing period (your next billing date). Downgrading to the Free Plan takes effect at the end of the current billing period. If you downgrade, any unused Subscription Credits remain available only until the end of the then-current billing period (your next billing date). Top-up Credits remain available. Upgrading grants immediate access to new Subscription Credits as of the subscription date.
 
-- (e) Cancellation and Plan Changes: Upon cancellation, subscriptions remain active through the end of the current billing period. If you cancel or do not renew, any unused Subscription Credits remain available only until the end of the then-current billing period (your next billing date). Downgrading to the Free Plan takes effect at the end of the current billing period. If you downgrade, any unused Subscription Credits remain available only until the end of the then-current billing period (your next billing date). Top-up Credits remain available. Upgrading grants immediate access to new Subscription Credits as of the subscription date.
+- (e) Account Termination: If your account is suspended or terminated due to your breach of these Terms, all credits immediately expire without refund, except as required by applicable law. If Desktop Commander terminates your account without cause, unused credits as indicated in your account settings will be refunded upon your request.
 
-- (f) Account Termination: If your account is suspended or terminated due to your breach of these Terms, all credits immediately expire without refund, except as required by applicable law. If Desktop Commander terminates your account without cause, unused credits as indicated in your account settings will be refunded upon your request.
+- (f) Service Discontinuation: Upon permanent cessation of the Service, unused credits as indicated in account settings will be refunded upon user request.
 
-- (g) Service Discontinuation: Upon permanent cessation of the Service, unused credits as indicated in account settings will be refunded upon user request.
+- (g) General Terms: Credits are prepaid, non-transferable, and non-redeemable for cash. Unused credits as indicated in your account settings may be refunded upon your request, subject to the conditions in this section. Credits constitute a limited license to access the Service and are not deposits, stored value, or financial instruments.
 
-- (h) General Terms: Credits are prepaid, non-transferable, and non-redeemable for cash. Unused credits as indicated in your account settings may be refunded upon your request, subject to the conditions in this section. Credits constitute a limited license to access the Service and are not deposits, stored value, or financial instruments.
+- (h) Applicable-law rights (withdrawal and refunds): Nothing in this Section limits any right to cancel, withdraw, or receive a refund where required by applicable law. Where a right of withdrawal applies, you may withdraw within 14 days of account registration or purchase by emailing legal@desktopcommander.app with a clear statement. We will reimburse payments within 14 days of receiving your notice. If you expressly request immediate performance and you fully consume credits during the withdrawal period, we may reduce the refund proportionately as permitted by applicable law.
 
-- (i) Applicable-law rights (withdrawal and refunds): Nothing in this Section limits any right to cancel, withdraw, or receive a refund where required by applicable law. Where a right of withdrawal applies, you may withdraw within 14 days of account registration or purchase by emailing legal@desktopcommander.app with a clear statement. We will reimburse payments within 14 days of receiving your notice. If you expressly request immediate performance and you fully consume credits during the withdrawal period, we may reduce the refund proportionately as permitted by applicable law.
-
-- (j) Refund requests: Refund requests must be submitted to legal@desktopcommander.app and will be processed within 14 days where required by applicable law, and otherwise within thirty (30) days.
+- (i) Refund requests: Refund requests must be submitted to legal@desktopcommander.app and will be processed within 14 days where required by applicable law, and otherwise within thirty (30) days.
 
 
 ---
