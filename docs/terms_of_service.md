@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: January 20, 2026**
+**Last Updated: August 1, 2026**
 
 Welcome, and thank you for your interest in Desktop Commander SIA (“Desktop Commander,” “we,” or “us”). These Terms of Service (“Terms”) govern your access to and use of Desktop Commander’s software, platform, APIs, documentation, website https://desktopcommander.app, and related tools (collectively, the “Service”). By using the Service, you agree to these Terms.
 
@@ -122,7 +122,7 @@ If a payment is overdue, we may suspend access to the Service after providing no
 
 - (b) Paid Credits (Top-ups): Paid Credits may be purchased at any time, subject to minimum purchase amounts as specified on our rate card. Paid Credits remain valid indefinitely while the Service operates.
 
-- (c) Subscription Fees: Subscription fees are billed monthly in advance and grant a limited license to access the Service under the selected plan for one month. Subscriptions automatically renew unless cancelled prior to the renewal date. Subscription Credits are allocated at the start of each billing period. Unless your subscription is cancelled or not renewed, Subscription Credits expire three (3) months from the date of allocation. Continued access under the same subscription plan requires monthly renewal.
+- (c) Subscription Fees: Subscription fees are billed monthly in advance and grant a limited license to access the Service under the selected plan for one month. Subscriptions automatically renew unless cancelled prior to the renewal date. Subscription Credits are allocated at the start of each billing period. Unless your subscription is cancelled or not renewed, Subscription Credits expire one (1) month from the date of allocation. Continued access under the same subscription plan requires monthly renewal.
 
 - (d) Credit Consumption Order: Credits are consumed in the following order: (1) Free Credits; (2) Subscription Credits; (3) Top-up Credits.
 
