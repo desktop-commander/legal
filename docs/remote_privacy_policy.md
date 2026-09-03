@@ -269,7 +269,7 @@ We may update this Privacy Policy from time to time. If a change is material, we
 For privacy-related questions or to exercise your rights:
 
 - **Email**: legal@desktopcommander.app
-- **General questions**: Open an issue on our [GitHub repository](https://github.com/desktop-commander/remote-dc-mcp)
+- **General questions**: Open an issue on our [GitHub issue tracker](https://github.com/desktop-commander/remote-desktop-commander/issues)
 
 We aim to respond to privacy inquiries within 30 days.
 
