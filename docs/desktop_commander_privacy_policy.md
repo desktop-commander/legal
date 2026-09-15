@@ -157,4 +157,4 @@ We may update this Privacy Policy from time to time. If a change is material, we
 
 ## 14. How to Contact Us
 
-Email: legal@desktopcommander.app
+Email: support@desktopcommander.app

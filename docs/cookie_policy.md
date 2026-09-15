@@ -75,7 +75,7 @@ If you have questions about our use of cookies or this Cookie Policy, please con
 Registration Number: 40203666483  
 VAT Number: LV40203666483  
 Registered Address: Elizabetes iela 8 - 6, Riga, Latvia, LV1010  
-Email: legal@desktopcommander.app
+Email: support@desktopcommander.app
 
 Where required by applicable law, you may have access to online dispute resolution platforms or other consumer dispute resolution options.
 

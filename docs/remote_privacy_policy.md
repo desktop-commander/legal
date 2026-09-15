@@ -141,7 +141,7 @@ Your Google user data is:
 ### Google Data Retention and Deletion
 
 - **Retention**: Your Google user data is retained for as long as your account remains active
-- **Account Deletion**: You may request deletion of your account and all associated data by contacting legal@desktopcommander.app or through your account settings
+- **Account Deletion**: You may request deletion of your account and all associated data by contacting support@desktopcommander.app or through your account settings
 - **Deletion Timeline**: Upon receiving a deletion request, we will delete your Google user data within 30 days, except where retention is required by law
 - **Revoke Access**: You can revoke Desktop Commander's access to your Google account at any time through your [Google Account Security Settings](https://myaccount.google.com/permissions)
 
@@ -200,7 +200,7 @@ If you opt in during sign-up, we may send you:
 - Every marketing email includes an unsubscribe link
 - You can withdraw consent at any time by:
   - Clicking "Unsubscribe" in any marketing email
-  - Contacting us at legal@desktopcommander.app
+  - Contacting us at support@desktopcommander.app
 - Unsubscribing from marketing does not affect service-related emails (security alerts, account notifications)
 
 We do **not** share your email with third parties for their marketing purposes.
@@ -236,7 +236,7 @@ You can view your account information, connected devices, and active sessions th
 ### Delete Your Data
 
 - **Delete a device**: Revoke individual devices from your account dashboard
-- **Delete your account**: Contact us at legal@desktopcommander.app to request full account deletion
+- **Delete your account**: Contact us at support@desktopcommander.app to request full account deletion
 - **Clear session data**: Sign out to clear your active sessions
 
 ### Opt-Out of Analytics
@@ -246,7 +246,7 @@ You can view your account information, connected devices, and active sessions th
 
 ### Export Your Data
 
-Contact us at legal@desktopcommander.app to request an export of your data.
+Contact us at support@desktopcommander.app to request an export of your data.
 
 ## Data Transfers
 
@@ -268,7 +268,7 @@ We may update this Privacy Policy from time to time. If a change is material, we
 
 For privacy-related questions or to exercise your rights:
 
-- **Email**: legal@desktopcommander.app
+- **Email**: support@desktopcommander.app
 - **General questions**: Open an issue on our [GitHub issue tracker](https://github.com/desktop-commander/remote-desktop-commander/issues)
 
 We aim to respond to privacy inquiries within 30 days.

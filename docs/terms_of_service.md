@@ -132,9 +132,9 @@ If a payment is overdue, we may suspend access to the Service after providing no
 
 - (g) General Terms: Credits are prepaid, non-transferable, and non-redeemable for cash. Unused credits as indicated in your account settings may be refunded upon your request, subject to the conditions in this section. Credits constitute a limited license to access the Service and are not deposits, stored value, or financial instruments.
 
-- (h) Applicable-law rights (withdrawal and refunds): Nothing in this Section limits any right to cancel, withdraw, or receive a refund where required by applicable law. Where a right of withdrawal applies, you may withdraw within 14 days of account registration or purchase by emailing legal@desktopcommander.app with a clear statement. We will reimburse payments within 14 days of receiving your notice. If you expressly request immediate performance and you fully consume credits during the withdrawal period, we may reduce the refund proportionately as permitted by applicable law.
+- (h) Applicable-law rights (withdrawal and refunds): Nothing in this Section limits any right to cancel, withdraw, or receive a refund where required by applicable law. Where a right of withdrawal applies, you may withdraw within 14 days of account registration or purchase by emailing support@desktopcommander.app with a clear statement. We will reimburse payments within 14 days of receiving your notice. If you expressly request immediate performance and you fully consume credits during the withdrawal period, we may reduce the refund proportionately as permitted by applicable law.
 
-- (i) Refund requests: Refund requests must be submitted to legal@desktopcommander.app and will be processed within 14 days where required by applicable law, and otherwise within thirty (30) days.
+- (i) Refund requests: Refund requests must be submitted to support@desktopcommander.app and will be processed within 14 days where required by applicable law, and otherwise within thirty (30) days.
 
 
 ---
@@ -161,7 +161,7 @@ The Service may include optional integrations with third-party tools, subject to
 
 ## 7. Communications
 
-We may send you updates and promotional communications. You may opt out at any time by responding to the respective message or email legal@desktopcommander.app. Opting out does not affect service-related messages (e.g., billing or security notices).
+We may send you updates and promotional communications. You may opt out at any time by responding to the respective message or email support@desktopcommander.app. Opting out does not affect service-related messages (e.g., billing or security notices).
 
 
 ---
@@ -177,7 +177,7 @@ We may update these Terms from time to time. If a change is material, we will pr
 
 ### 9.1. Cancellation and Account Deletion by You
 
-You may cancel your subscription at any time through your account settings or by contacting legal@desktopcommander.app. If you cancel, your subscription remains active through the end of the current billing period. You may also request account deletion through your account settings or by contacting legal@desktopcommander.app. If you request account deletion while you have an active paid subscription, we may complete the deletion after your paid access ends (for example, at the end of the current billing period).
+You may cancel your subscription at any time through your account settings or by contacting support@desktopcommander.app. If you cancel, your subscription remains active through the end of the current billing period. You may also request account deletion through your account settings or by contacting support@desktopcommander.app. If you request account deletion while you have an active paid subscription, we may complete the deletion after your paid access ends (for example, at the end of the current billing period).
 
 ### 9.2. Termination by Desktop Commander
 
@@ -269,6 +269,6 @@ VAT Number: LV40203666483
 
 Registered Address: Elizabetes iela 8 - 6, Riga, Latvia, LV1010
 
-Email: legal@desktopcommander.app
+Email: support@desktopcommander.app
 
 Where required by applicable law, you may have access to online dispute resolution platforms or other consumer dispute resolution options.

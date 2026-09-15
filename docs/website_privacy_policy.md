@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. If a change is material, we
 
 If you have questions about this privacy policy or want to exercise your rights, contact us at:
 
-[legal@desktopcommander.app](mailto:legal@desktopcommander.app)
+[support@desktopcommander.app](mailto:support@desktopcommander.app)
