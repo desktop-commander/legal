@@ -79,12 +79,12 @@ We use PostHog for product analytics to understand how the Service is used. Post
 
 ### Advertising Measurement (OpenAI Ads)
 
-We may use OpenAI Ads conversion measurement to understand whether people who interact with Desktop Commander advertising later create an account, connect a device, or begin using the Service.
+We may use OpenAI Ads conversion measurement to understand whether people who interact with Desktop Commander advertising later create an account, connect a device, or begin using the Service. Server-side conversion events are reported only when an OpenAI advertising attribution identifier (`oppref`) is available from a marketing-consented advertising journey.
 
 Depending on the advertising journey, your applicable privacy choices, and the information available to us, conversion events sent to OpenAI may include:
 
 - **Conversion event and timestamp**: For example, account registration, first verified device, or first tool use
-- **Advertising attribution identifier**: An OpenAI ad click or reference identifier (such as `oppref`) when available
+- **Advertising attribution identifier**: The OpenAI ad click or reference identifier (`oppref`) used to associate the conversion with the advertising journey
 - **Pseudonymous account identifier**: A SHA-256 hash of our internal Desktop Commander user ID
 - **Hashed email for matching**: Where separately enabled and legally permitted, a SHA-256 hash of an email address provided directly to Desktop Commander may be used to improve conversion matching
 
