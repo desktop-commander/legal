@@ -1,6 +1,6 @@
 # Privacy Policy for Remote Desktop Commander
 
-**Last updated: January 21, 2026**
+**Last updated: September 24, 2026**
 
 ## Introduction
 
@@ -76,6 +76,25 @@ We use PostHog for product analytics to understand how the Service is used. Post
 - Session recording is **disabled**
 - Do Not Track (DNT) browser setting is respected
 - Data is stored in PostHog's EU region
+
+### Advertising Measurement (OpenAI Ads)
+
+We may use OpenAI Ads conversion measurement to understand whether people who interact with Desktop Commander advertising later create an account, connect a device, or begin using the Service. Server-side conversion events are reported only when an OpenAI advertising attribution identifier (`oppref`) is available from a marketing-consented advertising journey.
+
+Depending on the advertising journey, your applicable privacy choices, and the information available to us, conversion events sent to OpenAI may include:
+
+- **Conversion event and timestamp**: For example, account registration, first verified device, or first tool use
+- **Advertising attribution identifier**: The OpenAI ad click or reference identifier (`oppref`) used to associate the conversion with the advertising journey
+- **Pseudonymous account identifier**: A SHA-256 hash of our internal Desktop Commander user ID
+- **Hashed email for matching**: Where separately enabled and legally permitted, a SHA-256 hash of an email address provided directly to Desktop Commander may be used to improve conversion matching
+
+We do **not** send raw email addresses through the OpenAI Ads conversion interface. We also do **not** send tool names, tool arguments, tool results, prompts, commands, file contents, file paths, or other contents of your connected device as advertising conversion data.
+
+We do **not** use Google OAuth profile data, including a Google-provided email address, for OpenAI Ads conversion matching.
+
+OpenAI uses conversion data to provide advertising measurement and attribution. Except where restricted processing applies, Desktop Commander and OpenAI may each act as independent controllers for personal data processed through OpenAI's advertising tools. See [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy/) and [Ad Tools Data Processing Addendum](https://openai.com/policies/ad-tools-dpa/).
+
+Where applicable law requires consent for advertising measurement, we use these technologies only after the required consent and stop making affected personal data available for this purpose when that consent is withdrawn or an applicable opt-out or objection must be honored.
 
 ### Error Tracking (Sentry)
 
@@ -161,6 +180,7 @@ We use the following third-party services to provide and improve the Service:
 | **Supabase** | Database, authentication, real-time communication | All account data, device data, tool execution data | [supabase.com/privacy](https://supabase.com/privacy) |
 | **PostHog** | Product analytics | Usage events, user identifiers, page views | [posthog.com/privacy](https://posthog.com/privacy) |
 | **Sentry** | Error monitoring | Error reports, stack traces, user context | [sentry.io/privacy](https://sentry.io/privacy) |
+| **OpenAI** | Advertising measurement and conversion attribution | Conversion events, pseudonymous hashed account identifiers, advertising attribution identifiers, and where enabled and permitted, hashed matching data | [openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy/) |
 | **Google** | OAuth authentication (optional) | Email, name, profile picture (if you choose Google sign-in) | [policies.google.com/privacy](https://policies.google.com/privacy) |
 
 ## How We Use Your Data
@@ -184,6 +204,10 @@ We use your data for the following purposes:
 - Audit security-relevant events
 - Protect against abuse
 
+**Advertising measurement:**
+- Measure whether advertising leads to account registration, device setup, or product use
+- Attribute eligible conversions to advertising campaigns
+
 **Communication:**
 - Send service-related announcements
 - Respond to support requests
@@ -203,7 +227,7 @@ If you opt in during sign-up, we may send you:
   - Contacting us at support@desktopcommander.app
 - Unsubscribing from marketing does not affect service-related emails (security alerts, account notifications)
 
-We do **not** share your email with third parties for their marketing purposes.
+We do **not** share your raw email address with third parties for their marketing purposes. Where advertising measurement is enabled and legally permitted, we may share a one-way hash of an email address provided directly to Desktop Commander for conversion matching, as described in **Advertising Measurement (OpenAI Ads)** above.
 
 ## Data Retention
 
@@ -214,6 +238,7 @@ We do **not** share your email with third parties for their marketing purposes.
 | Device data | Until device is revoked or account deleted; offline devices deleted after 24 hours |
 | Tool execution data | Deleted immediately after execution completes |
 | Analytics data (PostHog) | 12 months |
+| Advertising measurement data | Until account deletion or earlier when no longer needed for attribution, deduplication, or legal compliance |
 | Error data (Sentry) | 90 days |
 
 ## Data Security
@@ -244,6 +269,12 @@ You can view your account information, connected devices, and active sessions th
 - **PostHog**: Enable "Do Not Track" in your browser settings
 - **Sentry**: Error tracking cannot be disabled individually, but session replay is already disabled
 
+### Advertising Measurement Choices
+
+- You can manage marketing and advertising measurement cookies through **Cookie Settings** on our website.
+- Where applicable law gives you a right to withdraw consent, opt out, or object to this processing, we will honor that choice and stop sending affected personal data to OpenAI where required.
+- You can also contact support@desktopcommander.app to exercise applicable privacy rights.
+
 ### Export Your Data
 
 Contact us at support@desktopcommander.app to request an export of your data.
@@ -255,6 +286,7 @@ The Service is operated from servers that may be located in the United States an
 - Supabase: Data stored in your selected region
 - PostHog: Data stored in EU region (eu.i.posthog.com)
 - Sentry: Standard Contractual Clauses for international transfers
+- OpenAI: Conversion data is handled under OpenAI's Ad Tools terms and data protection commitments, including applicable international transfer safeguards
 
 ## Children
 
@@ -279,7 +311,7 @@ If you are located in the European Economic Area, United Kingdom, or Switzerland
 
 - **Performance of a Contract**: To provide the Service, manage your account, and execute remote tools
 - **Legitimate Interests**: To improve and secure the Service, perform analytics, and communicate with you
-- **Consent**: Where required by law, such as for certain types of marketing
+- **Consent**: Where required by law, such as for certain types of marketing and advertising measurement
 - **Legal Obligations**: To comply with applicable laws and regulations
 
 You have the right to lodge a complaint with your local data protection authority if you believe we have violated your data protection rights.

@@ -1,6 +1,6 @@
 # Cookie Policy - Desktop Commander
 
-**Last updated:** January 22, 2026
+**Last updated:** September 24, 2026
 
 ## What are cookies?
 
@@ -8,9 +8,9 @@ Cookies are small text files that are placed on your device when you visit a web
 
 ## How we use cookies
 
-Desktop Commander uses cookies to provide essential functionality and to understand how visitors use our platform. This helps us improve your experience and make our product better.
+Desktop Commander uses cookies to provide essential functionality, understand how visitors use our platform. This helps us measure the effectiveness of our advertising and improve your experience and make our product better.
 
-We use two types of cookies:
+We use three types of cookies:
 
 ### Necessary Cookies
 
@@ -30,6 +30,19 @@ These cookies help us understand how visitors interact with Desktop Commander by
 - Performance monitoring cookies that help us identify technical issues
 
 We only set statistics cookies after you give us your consent.
+
+### Marketing / Advertising Cookies
+
+These cookies and related measurement technologies help us understand whether interactions with Desktop Commander advertising lead to later registration or use of our services.
+
+**Examples include:**
+- The OpenAI Ads measurement pixel, which is loaded only after marketing consent
+- `dc_oppref`, a first-party cookie that stores an OpenAI advertising click identifier for up to 30 days so a later conversion can be attributed to the relevant advertising interaction
+- Other advertising measurement cookies that may be set by the OpenAI Ads pixel and are listed in the Cookie Declaration below
+
+We only load marketing measurement technologies or set `dc_oppref` after you give marketing consent. You can withdraw that consent at any time through **Cookie Settings**. Withdrawing consent prevents future loading of marketing measurement technologies; you can also delete existing cookies through your browser settings.
+
+For information about server-side advertising conversion measurement associated with Remote Desktop Commander, see the [Remote Desktop Commander Privacy Policy](https://legal.desktopcommander.app/#/remote_privacy_policy).
 
 ## Cookies we use
 
