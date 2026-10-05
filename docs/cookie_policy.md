@@ -8,7 +8,7 @@ Cookies are small text files that are placed on your device when you visit a web
 
 ## How we use cookies
 
-Desktop Commander uses cookies to provide essential functionality, understand how visitors use our platform, and, where you consent, measure the effectiveness of our advertising.
+Desktop Commander uses cookies to provide essential functionality, understand how visitors use our platform. This helps us measure the effectiveness of our advertising and improve your experience and make our product better.
 
 We use three types of cookies:
 
