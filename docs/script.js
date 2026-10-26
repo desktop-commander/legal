@@ -3,6 +3,7 @@
 const routes = {
     '/': 'terms_of_service.md',
     '/terms_of_service': 'terms_of_service.md',
+    '/terms_of_service_2026_11_09': 'terms_of_service_2026_11_09.md',
     '/privacy_desktop_commander_mcp': 'mcp-privacy-policy.md',
     '/privacy_desktop_commander_app': 'desktop_commander_privacy_policy.md',
     '/remote_privacy_policy': 'remote_privacy_policy.md',
@@ -13,6 +14,7 @@ const routes = {
 
 const menuItems = [
     { "title": "Terms of Service", "url": "/terms_of_service" },
+    { "title": "Updated Terms of Service, effective 9 November 2026", "url": "/terms_of_service_2026_11_09" },
     { "title": "Privacy Policy for Desktop Commander MCP", "url": "/privacy_desktop_commander_mcp" },
     { "title": "Privacy Policy for Desktop Commander App", "url": "/privacy_desktop_commander_app" },
     { "title": "Privacy Policy for Remote Desktop Commander", "url": "/remote_privacy_policy" },
