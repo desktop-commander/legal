@@ -7,6 +7,8 @@ const routes = {
     '/privacy_desktop_commander_mcp': 'mcp-privacy-policy.md',
     '/privacy_desktop_commander_app': 'desktop_commander_privacy_policy.md',
     '/remote_privacy_policy': 'remote_privacy_policy.md',
+    '/context_privacy_policy': 'context_privacy_policy.md',
+    '/context_terms': 'context_terms.md',
     '/website_privacy_policy': 'website_privacy_policy.md',
     '/cookie_policy': 'cookie_policy.md',
     '/404': '404.md'
@@ -45,7 +47,11 @@ function getHashPath() {
  */
 function loadContent(path) {
     const markdownFile = routes[path] || routes['/404'];
-    const pageTitle = menuItems.find(item => item.url === path)?.title || "Document";
+    const unlistedTitles = {
+        "/context_privacy_policy": "Privacy Policy for Context Commander",
+        "/context_terms": "Context Commander — Additional Terms of Service"
+    };
+    const pageTitle = menuItems.find(item => item.url === path)?.title || unlistedTitles[path] || "Document";
     document.title = `${pageTitle} | Legal Documents`;
 
     fetch(markdownFile)
